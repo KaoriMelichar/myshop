@@ -30,4 +30,7 @@ console.log(x); // 200
 ## その他  
 **マークダウン**を学習しています。  
 ---
-詳しくは、[Wikipedia](https://ja.wikipedia.org./wiki/Markdown)を参考にしてください
+詳しくは、[Wikipedia](https://ja.wikipedia.org./wiki/Markdown)を参考にしてください  
+
+## バグの改修
+- 検索時の大文字小文字のバグを修正
