@@ -15,6 +15,19 @@ Githubの学習を目的としています。
 
 ## ページ構成
 | URL | ファイル | 内容 |
-|: ---:|:----:|:-----:|
+|:---:|:----:|:-----:|
 | /home | home.html | トップページ |
 | /shop | shop.html | 店舗ページ|
+
+## コードサンプル  
+変数は`let x = 100`のように記述する
+```javascript
+let x = 100;
+let x = x + 100;
+console.log(x); // 200
+```
+
+## その他  
+**マークダウン**を学習しています。  
+---
+詳しくは、[Wikipedia](https://ja.wikipedia.org./wiki/Markdown)を参考にしてください
